@@ -10,7 +10,8 @@ To solve this problem, a Convolutional Neural Network (CNN) will be developed, a
 
 After training, the CNN model will be tested on new, unseen images to verify its classification performance. The model should be able to generalize well and provide accurate predictions for real-world data.
 
-The objective is to achieve high classification accuracy while minimizing errors using appropriate training techniques, loss functions, and optimization methods.## Neural Network Model
+The objective is to achieve high classification accuracy while minimizing errors using appropriate training techniques, loss functions, and optimization methods.
+## Neural Network Model
 <img width="1024" height="751" alt="image" src="https://github.com/user-attachments/assets/93bdbae8-0b65-4055-b259-4f5163e8cdfb" />
 
 ## DESIGN STEPS
